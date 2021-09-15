@@ -1,0 +1,17 @@
+.task {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .task__done {
+
+} */
+
+.checked {
+    opacity: .5;
+}
+
+.like {
+    color: red;
+}
